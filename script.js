@@ -111,7 +111,7 @@
         answers: {
           a: "It's an analogy",
           b: "Because Steve felt like it",
-          c: "The other fuirts were taken"
+          c: "The other fruits were taken"
         },
         correctAnswer: "b"
       },
